@@ -1,3 +1,3 @@
 # MyFirstWebsite
 cnc.rf.gd
-"quick coffee website as a school project"
+"quick coffee website as a school project built with BOOTSTRAP"
